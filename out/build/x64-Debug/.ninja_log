@@ -1,0 +1,17 @@
+# ninja log v5
+1	426	701539191	22_1_seasons/CMakeFiles/22_1_seasons.dir/22_1_seasons.cpp.obj	9ef510eebc802a51
+427	2793	701539192	22_1_seasons/22_1_seasons.exe	ef127c05e34ee402
+1	715	701539772	build.ninja	85387a743a283325
+0	716	701539772	src/CMakeFiles/22_1_seasons.dir/main.cpp.obj	6cc6b114ed9fd20b
+716	5917	701539775	src/22_1_seasons.exe	648413aded82c904
+0	837	701544583	src/CMakeFiles/22_1_seasons.dir/main.cpp.obj	6cc6b114ed9fd20b
+837	2325	701544584	src/22_1_seasons.exe	648413aded82c904
+1	409	701544597	src/CMakeFiles/22_1_seasons.dir/main.cpp.obj	6cc6b114ed9fd20b
+409	2391	701544599	src/22_1_seasons.exe	648413aded82c904
+0	551	701544618	src/CMakeFiles/22_1_seasons.dir/main.cpp.obj	6cc6b114ed9fd20b
+551	1405	701544618	src/22_1_seasons.exe	648413aded82c904
+2	377	701544796	build.ninja	85387a743a283325
+1	612	701544825	src/CMakeFiles/23_2_seasons.dir/main.cpp.obj	a3afa09b36726cd5
+612	2827	701544826	src/23_2_seasons.exe	a7741e9ab37b0e2d
+1	452	701544857	build.ninja	85387a743a283325
+2	194	701544893	build.ninja	85387a743a283325

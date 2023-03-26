@@ -1,0 +1,5 @@
+C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/23/22_1_seasons/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/23/22_1_seasons/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/23/22_1_seasons/out/build/x64-Debug/src/CMakeFiles/23_2_seasons.dir
+C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/23/22_1_seasons/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/23/22_1_seasons/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
